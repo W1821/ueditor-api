@@ -1,0 +1,7 @@
+ueditor:
+  upload:
+    # 所有上传文件根目录
+    root-path: "c:/upload/file"
+    # 图片文件映射匹配
+    resource-handler: "/public/ueditor"
+    resource-prefix: "/public/ueditor/**"
